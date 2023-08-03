@@ -12,7 +12,7 @@ Just heard about Gliss and want it now? Just received the module and it's so coo
 
 ## Getting started
 
-Just received your module? See the manual here [TODO: upload pdf to this very repo] and the Knowledge Base here https://learn.bela.io/gliss
+Just received your module? Get started with [the manual](https://github.com/BelaPlatform/Gliss/blob/main/Gliss_userManual.pdf?raw=true) and start patching.
 
 ## Firmware
 
