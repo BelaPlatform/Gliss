@@ -16,3 +16,7 @@ Gliss was launched on Crowd Supply in December 2022 and shipped to backers world
 ## Firmware
 
 The firmware for Gliss can be found at https://github.com/BelaPlatform/gliss-firmware.
+
+## Hardware
+
+The KiCad source files for the Hardware can be found at https://github.com/BelaPlatform/gliss-hardware.
