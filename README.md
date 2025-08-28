@@ -3,7 +3,7 @@ Everything related to the Gliss Eurorack module by Bela.
 
 ## Getting started
 
-Just received your module? Get started with [the manual](https://learn.bela.io/products/modular/gliss/#:~:text=The%20Gliss%20User%20Manual) and start patching. For those of you who just want to dive right in you can check out our [getting started guide](https://learn.bela.io/products/modular/gliss/).
+Just received your module? Get started with [the manual](https://github.com/BelaPlatform/Gliss/blob/main/GLISS_user_manual-2.pdf?raw=true) and start patching. For those of you who just want to dive right in you can check out our [getting started guide](https://learn.bela.io/products/modular/gliss/).
 
 ## Buy Gliss
 
